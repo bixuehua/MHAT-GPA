@@ -1,5 +1,9 @@
 # mHAT-GPA
-A method for gene-phenotype association prediction by using multi-level heterogeneous graph attention network
+**A method for gene-phenotype association prediction by using multi-level heterogeneous graph attention network**
+
+<img src="https://github.com/bixuehua/mHAT-GPA/blob/main/Fig 1 framework.png">
+Fig. 1.The workflow of mHAT-GPA.
+
 ### Dataset ###
 <table>
     <tr>
